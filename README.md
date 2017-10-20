@@ -14,14 +14,23 @@ Target Audience: While this is aimed for those who are relatively new to Jupyter
 The tips covered can be broadly put into the following Categories:
 
 |CODE	| CATEGORY OF TIP/TRICK
+
 |EDIT	|Editing Related Tips
+
 |CELL	|Cell Related Tips	
+
 |HELP	|Getting Help
+
 |NBK	|Notebook Related Tips
+
 |JUPYTER	|Basic Jupyter Tips	
+
 |AES	|Aesthetics: Look and Feel
+
 |HTML	|HTML-Based Tips and Tricks
+
 |SHELL	|Cell Magic and Shell based Tips
+
 |PY	    |Python-Based Tips	
 
 If you find mistakes or have suggestions for explaining these better, please do send me a note.
